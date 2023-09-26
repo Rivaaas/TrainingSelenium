@@ -14,6 +14,6 @@ public class Esc_PaginaInicioFacebook {
         String correo ="//*[@name='email']";
         String pass="//*[@type='password']";
         rec_global.Escribir("rivaaas.v@gmail.com",correo);
-        rec_global.Escribir("Ordiexl0402",pass);
+        rec_global.Escribir("454",pass);
     }
 }

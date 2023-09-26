@@ -25,10 +25,10 @@ public class PruebaFacebook {
     }
 
 
-    public void LecturaDatos {
-         entloginf = new Ent_LoginFacebook();
-         entloginf.
-    }
+    //public void LecturaDatos {
+         //entloginf = new Ent_LoginFacebook();
+        // entloginf.
+  //  }
     @Test
     public void RealizarConsultaTicketes(){
         Esc_PaginaInicioFacebook esc_paginainicio = new Esc_PaginaInicioFacebook(driver);
